@@ -1,2 +1,2 @@
 # sentiment-analyzer
-If the review or feedback is provided, the program predicts whether they are negative, positive, or neutral.
+The program automatically scrapes data, which are basically user review and feedback, from Amazon site, and does sentiment analysis, saving them in 2 columns in csv dataset.
